@@ -1,3 +1,11 @@
+# Fully autonomous?
+
+If you have a lot of accounts and want this fully automated with: reposting, running 24/7, scheduled tasks & more without a single input from you, get in touch with me below:
+
+Discord: grupii
+Telegram: https://t.me/grupiiiii
+
+
 # Twitter Engagement Group Automation
 
 A Python-based tool for automating Twitter login and scraping group chat data using Playwright.
